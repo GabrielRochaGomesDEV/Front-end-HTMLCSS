@@ -1,0 +1,31 @@
+/*novas font importadadas*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Seaweed+Script&display=swap');
+
+
+body{
+    width: 1200px; /* propriedade que define largura de um elemento tamanho horizontal */
+    margin: auto; /* Definir a margem */
+    text-align: right; /* alinhamento a direita */
+}
+
+.paragrafo1{
+    font-family:'Roboto' ;/* tipo de fonte especifico do texto*/
+    font-size: 24px;   /* define tamanho do texto dentro do elemento */
+}
+
+h1{
+    font-family: 'Seaweed Script';
+    color: #A93983; /* cor do elemento*/
+    font-size: 72px;
+    text-align: left;
+}
+
+.paragrafo2{
+    font-family: 'Quicksand';
+    font-size: 18px;
+    font-weight: 300;
+}
+
+footer{
+    text-align: center; /* define alinhamento do texto elemento bloco */
+}
