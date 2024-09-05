@@ -64,7 +64,7 @@
 
 5- Crie uma página baseado no layout abaixo:<br>
 **Imagens:**<br>
-**logo:** [https://studioparkgr.com/images/default-source/logos/celebration.png?sfvrsn=a990cfe2_2](https://studioparkgr.com/images/default-source/logos/celebration.png?sfvrsn=a990cfe2_2)
+**logo:** [https://github.com/GabrielRochaGomesDEV/Front-end-HTMLCSS/blob/main/Lista%205%20-%20Backgroud%2C%20Float%20e%20Displays/Imagem/Untitled1.png]https://github.com/GabrielRochaGomesDEV/Front-end-HTMLCSS/blob/main/Lista%205%20-%20Backgroud%2C%20Float%20e%20Displays/Imagem/Untitled1.png)
 
 [https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Troy_Teresa_Kunegunda_Sobieska.jpg/390px-Troy_Teresa_Kunegunda_Sobieska.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Troy_Teresa_Kunegunda_Sobieska.jpg/390px-Troy_Teresa_Kunegunda_Sobieska.jpg)
 
