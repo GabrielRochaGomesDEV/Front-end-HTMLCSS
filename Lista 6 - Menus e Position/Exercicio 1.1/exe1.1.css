@@ -1,0 +1,19 @@
+@import url('https://fonts.google.com/css2?family=roboto&display=swap');
+
+
+
+.menu{
+    max-width: auto;
+    padding: 3%;
+    margin: 0 auto;
+    background-color: blueviolet;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: center;
+    
+}
+
