@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+
+.menu{
+    max-width: auto;
+    padding: 3%;
+    margin: 0 auto;
+    background-color: #2E8B57;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: center;
+    
+}
+
+.centralizado{
+    font-family:'outfit';
+    font-size: 70px ;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
