@@ -9,12 +9,15 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: auto;
+    width: 1200px;
 }
 
 nav .logo{
     font-size: 50px ;
     color: #FC5812;
     font-weight: bold;
+
 }
 
 nav ul{
