@@ -10,7 +10,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     margin: auto;
-    width: 1200px;
+    width: 1140px;
     
 }
 
@@ -38,6 +38,7 @@ nav ul li a {
  
 body{
     font-family: 'Roboto', sans-serif;
+
 }
 
 
@@ -75,9 +76,10 @@ h2{
 }
 
 section{
-    display: flex;             /* Usar flexbox na seção */
+    display: flex;            
     justify-content: center; 
 }
+
 
 h2 {
     font-family: 'Roboto';
@@ -94,4 +96,12 @@ h2 {
 .texto_central p {
     width: 560px;
     margin-bottom: 15px;
+}
+
+footer {
+    width: 100%;
+    height: 90px;
+    background-color: #FC5812;
+    text-align: center;
+    color: white;
 }
