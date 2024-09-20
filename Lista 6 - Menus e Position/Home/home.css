@@ -129,3 +129,12 @@ footer {
     text-align: center;
     color: white;  
 }
+
+button{
+    width:128px;
+    height:42px;
+    border-radius:4px;
+    background-color: #FC5812;
+    border: none;
+    color: white;
+}
